@@ -60,8 +60,7 @@ Interested in contributing to research on Myanmar’s most pressing issues and r
 ---
 
 ###  About Me
-A dedicated scholar who loves learning and helping people.  
-I enjoy connecting with communities, exploring business solutions, and working toward sustainable development in Myanmar and the ASEAN region.
+A dedicated scholar who loves learning and helping people. I enjoy connecting with communities, exploring business solutions, and working toward sustainable development in Myanmar and the ASEAN region.
 
 ---
 
