@@ -1,3 +1,9 @@
+title: Khant Kyaw Oo
+description: Personal Website
+show_downloads: true
+google_analytics:
+theme; jekyll-theme-dinky
+
 <img src="kyaw.jpg" align="right" width="20%">
 
 # **KHANT KYAW OO**
