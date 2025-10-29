@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Your Name — International Business Management Student"
+title: "KHANT KYAW OO — International Business Management Student"
 ---
 
 <section class="hero">
