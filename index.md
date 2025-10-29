@@ -2,6 +2,8 @@
 
 # **KHANT KYAW OO**
 
+---
+
 **CONTACT**
 
 - **Location:** Chiang Mai, Thailand  
