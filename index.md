@@ -1,9 +1,10 @@
 Khant Kyaw Oo
 ---
-
+**CONTACT**
 Location: **Chiang Mai, Thailand**  
-📧 [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com) ·  +66 61 739 0975  
-🔗 [LinkedIn](https://www.linkedin.com/in/khant-kyaw-oo-690b16396) · [GitHub](https://karakadoresu.github.io)
+Gmail: [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com) · 
+Phone: +66 61 739 0975  
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/khant-kyaw-oo-690b16396) · [GitHub](https://karakadoresu.github.io)
 
 ---
 
