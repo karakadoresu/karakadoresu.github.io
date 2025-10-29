@@ -13,8 +13,10 @@
 ---
 
 ###  Objective
+<div style="text-align: justify;">
 Dedicated International Business Management student and former DISP scholar with a strong academic background and a passion for research. Skilled in data analysis, market research, and problem-solving, with experience in academic writing and teamwork.  
 Interested in contributing to research on Myanmar’s most pressing issues and regional challenges. Highly organized, detail-oriented, and committed to producing insightful and impactful research.
+</div>
 
 ---
 
