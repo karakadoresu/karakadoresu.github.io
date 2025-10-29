@@ -10,6 +10,9 @@
 
 ---
 
+
+
+
 ###  Objective
 <div style="text-align: justify;">
 Dedicated International Business Management student and former DISP scholar with a strong academic background and a passion for research. Skilled in data analysis, market research, and problem-solving, with experience in academic writing and teamwork.  
