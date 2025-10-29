@@ -1,3 +1,37 @@
+---
+layout: default
+title: "Your Name — International Business Management Student"
+---
+
+<section class="hero">
+  <div class="hero-content">
+    <h1>Your Name</h1>
+    <p>Business Student | International Business Management | Resilience • Innovation • Global Mindset</p>
+  </div>
+</section>
+
+<style>
+.hero {
+  background: url('/assets/images/hero-bg.jpg') no-repeat center center;
+  background-size: cover;
+  color: white;
+  text-align: center;
+  padding: 120px 20px;
+}
+.hero-content h1 {
+  font-size: 3.5rem;
+  margin: 0;
+}
+.hero-content p {
+  font-size: 1.3rem;
+  margin-top: 10px;
+}
+@media(max-width: 600px) {
+  .hero-content h1 { font-size: 2.5rem; }
+  .hero-content p { font-size: 1rem; }
+}
+</style>
+
 <img src="kyaw.jpg" align="right" width="20%">
 
 # **KHANT KYAW OO**
