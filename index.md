@@ -1,4 +1,4 @@
-<img src="kyaw.jpg" align="right" width="20%"> ![Photo](kyaw.jpg)
+<img src="kyaw.jpg" align="right" width="20%">
 
 # **KHANT KYAW OO**
 
