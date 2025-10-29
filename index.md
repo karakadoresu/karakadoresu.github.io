@@ -1,4 +1,4 @@
-title: Khant Kyaw Oo
+Khant Kyaw Oo
 ---
 
 *Chiang Mai, Thailand*  
