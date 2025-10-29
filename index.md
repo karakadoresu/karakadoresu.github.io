@@ -1,5 +1,9 @@
 <img src="kyaw.jpg" align="right" width="20%">
 
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1><b>KHANT KYAW OO</b></h1>
+
 # **KHANT KYAW OO**
 
 **CONTACT**
