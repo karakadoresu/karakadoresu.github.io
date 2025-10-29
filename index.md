@@ -7,8 +7,6 @@
 - **Location:** Chiang Mai, Thailand  
 - **Gmail:** [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com)  
 - **Phone:** +66 61 739 0975  
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/khant-kyaw-oo-690b16396)  
-- **GitHub:** [GitHub](https://karakadoresu.github.io)
 
 ---
 
@@ -66,5 +64,12 @@ A dedicated scholar who loves learning and helping people.
 I enjoy connecting with communities, exploring business solutions, and working toward sustainable development in Myanmar and the ASEAN region.
 
 ---
+
+### Connect With Me
+
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/khant-kyaw-oo-690b16396)  
+- **GitHub:** [GitHub](https://karakadoresu.github.io)  
+- **Facebook:** [Facebook](https://web.facebook.com/mmehmkaraklovesu/)
+
 
 
