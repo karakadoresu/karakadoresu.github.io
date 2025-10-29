@@ -1,46 +1,30 @@
-<style>
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-}
-
-h1, h2, h3 {
-    color: #2E86AB;
-}
-
-hr {
-    border: 0;
-    height: 1px;
-    background: #ccc;
-}
-
-.contact-card, .experience-card, .skill-card, .education-card, .award-card {
-    border-left: 4px solid #2E86AB;
-    padding: 10px 15px;
-    margin-bottom: 15px;
-    background-color: #f9f9f9;
-    border-radius: 5px;
-}
-
-.contact-card a {
-    color: #2E86AB;
-    text-decoration: none;
-}
-
-.contact-card a:hover {
-    text-decoration: underline;
-}
-
-.objective-text {
-    text-align: justify;
-    background-color: #f0f8ff;
-    padding: 10px;
-    border-radius: 5px;
-}
-</style>
-
 # **KHANT KYAW OO**
+
+### **KHANT KYAW OO**
+
+<div style="border-left: 4px solid #2E86AB; padding: 10px 15px; margin-bottom: 15px; background-color: #f9f9f9; border-radius: 5px;">
+**Location:** Chiang Mai, Thailand  
+**Gmail:** [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com)  
+**Phone:** +66 61 739 0975  
+</div>
+
+---
+
+### Objective
+<div style="text-align: justify; background-color: #f0f8ff; padding: 10px; border-radius: 5px; margin-bottom: 15px;">
+Dedicated International Business Management student and former DISP scholar with a strong academic background and a passion for research. Skilled in data analysis, market research, and problem-solving, with experience in academic writing and teamwork.  
+Interested in contributing to research on Myanmar’s most pressing issues and regional challenges. Highly organized, detail-oriented, and committed to producing insightful and impactful research.
+</div>
+
+---
+
+### Education
+<div style="border-left: 4px solid #2E86AB; padding: 10px 15px; margin-bottom: 15px; background-color: #f9f9f9; border-radius: 5px;">
+- **Payap University, Thailand** — *B.Sc. in International Business Management (Current)*  
+  *GPA: 4.0*
+- **Mon National College** — *Associate Degree in Community Leadership and Management*  
+  *GPA: 3.3*
+</div>
 
 **CONTACT**
 
