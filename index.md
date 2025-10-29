@@ -3,7 +3,7 @@ title: Khant Kyaw Oo
 ---
 
 *Chiang Mai, Thailand*  
-📧 [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com) · 📞 +66 61 739 0975  
+📧 [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com) ·  +66 61 739 0975  
 🔗 [LinkedIn](https://www.linkedin.com/in/khant-kyaw-oo-690b16396) · [GitHub](https://karakadoresu.github.io)
 
 ---
@@ -61,6 +61,4 @@ I enjoy connecting with communities, exploring business solutions, and working t
 
 ---
 
-*© 2025 Khant Kyaw Oo — Hosted on [GitHub Pages](https://karakadoresu.github.io)*  
-*Format inspired by [Robert Batzinger’s academic GitHub site](https://rbatzing.github.io).*
 
