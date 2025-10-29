@@ -1,38 +1,44 @@
----
-layout: default
-title: "KHANT KYAW OO — International Business Management Student"
----
-
-<section class="hero">
-  <div class="hero-content">
-    <h1>Your Name</h1>
-    <p>Business Student | International Business Management | Resilience • Innovation • Global Mindset</p>
-  </div>
-</section>
-
 <style>
-.hero {
-  background: url('/assets/images/hero-bg.jpg') no-repeat center center;
-  background-size: cover;
-  color: white;
-  text-align: center;
-  padding: 120px 20px;
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
 }
-.hero-content h1 {
-  font-size: 3.5rem;
-  margin: 0;
+
+h1, h2, h3 {
+    color: #2E86AB;
 }
-.hero-content p {
-  font-size: 1.3rem;
-  margin-top: 10px;
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ccc;
 }
-@media(max-width: 600px) {
-  .hero-content h1 { font-size: 2.5rem; }
-  .hero-content p { font-size: 1rem; }
+
+.contact-card, .experience-card, .skill-card, .education-card, .award-card {
+    border-left: 4px solid #2E86AB;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.contact-card a {
+    color: #2E86AB;
+    text-decoration: none;
+}
+
+.contact-card a:hover {
+    text-decoration: underline;
+}
+
+.objective-text {
+    text-align: justify;
+    background-color: #f0f8ff;
+    padding: 10px;
+    border-radius: 5px;
 }
 </style>
-
-<img src="kyaw.jpg" align="right" width="20%">
 
 # **KHANT KYAW OO**
 
