@@ -1,4 +1,4 @@
-<img src="image (1).jpg" align="right" width="20%">
+<img src="images (1).jpg" align="right" width="20%">
 Khant Kyaw Oo
 ---
 **CONTACT**
