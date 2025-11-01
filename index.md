@@ -4,7 +4,8 @@
 # **KHANT KYAW OO**
 
 Undergraduate Student in International Business Management
-Mon National College (MNC) & Payap University, Chiang Mai, Thailand
+Payap University, Department of Business Administration
+Nong Pa khrang, Mueang Chiang Mai 50000, Thailand
 
 **CONTACT**
 
