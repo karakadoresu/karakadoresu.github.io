@@ -5,11 +5,10 @@
 
 Undergraduate Student in International Business Management,
 Payap University, Department of Business Administration
-Nong Pa khrang, Mueang Chiang Mai 50000, Thailand.
 
 **CONTACT**
 
-- **Location:** Chiang Mai, Thailand  
+- **Location:** Nong Pa Khrang, Mueang Chiang Mai 50000, Thailand  
 - **Gmail:** [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com)  
 - **Phone:** +66 61 739 0975  
 
