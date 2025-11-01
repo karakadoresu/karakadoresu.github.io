@@ -6,7 +6,8 @@
 Undergraduate Student in International Business Management,
 Payap University, Department of Business Administration
 
-<div style="text-align: justify;">I am a dedicated and creative individual with experience in online teaching, community engagement, and youth development. I excel in communication, mentoring, and creating meaningful content that connects and inspires others. My passion lies in helping people learn, grow, and build confidence through education and collaboration.
+<div style="text-align: justify;"> 
+ I am a dedicated and creative individual with experience in online teaching, community engagement, and youth development. I excel in communication, mentoring, and creating meaningful content that connects and inspires others. My passion lies in helping people learn, grow, and build confidence through education and collaboration.
 
  **CONTACT**
 
