@@ -9,11 +9,9 @@ Payap University, Department of Business Administration
 <div style="text-align: justify;"> 
  I am a dedicated and creative individual with experience in online teaching, community engagement, and youth development. I excel in communication, mentoring, and creating meaningful content that connects and inspires others. My passion lies in helping people learn, grow, and build confidence through education and collaboration.
 
- 
- 
- 
- 
- **CONTACT**
+ ---
+
+  **CONTACT**
 
 - **Location:** Nong Pa Khrang, Mueang Chiang Mai 50000, Thailand  
 - **Gmail:** [mehmkarakmon@gmail.com](mailto:mehmkarakmon@gmail.com)  
