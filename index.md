@@ -3,9 +3,8 @@
 
 # **KHANT KYAW OO**
 
-Undergraduate Student in International Business Management
+Undergraduate Student in International Business Management,
 Payap University, Department of Business Administration
-
 Nong Pa khrang, Mueang Chiang Mai 50000, Thailand.
 
 **CONTACT**
