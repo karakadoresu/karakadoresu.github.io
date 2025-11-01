@@ -1,9 +1,8 @@
 
-<img src="kyaw.jpg" align="right" width="20%">
+<img src="kyaw.jpg" align="right" width="30%">
 
 # **KHANT KYAW OO**
 
-<div style="text-align: justify;">
 Undergraduate Student in International Business Management,
 Payap University, Department of Business Administration
 
