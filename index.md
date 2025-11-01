@@ -38,8 +38,8 @@ Interested in contributing to research on Myanmar’s most pressing issues and r
 
 ---
 
-###  Field-related Experiences
-**Research on Mon Youth Migration** *(Jan – Apr 2024)*  
+###  Experiences
+**Community Service - Research on Mon Youth Migration** *(Jan – Apr 2024)*
 - Conducted a two-week research project on why Mon youth engage in migration.  
 - Designed and implemented surveys and interviews to collect data.  
 - Analyzed migration trends and socio-economic factors influencing youth decisions.  
@@ -66,15 +66,23 @@ Interested in contributing to research on Myanmar’s most pressing issues and r
 - Volunteer Recognition Award  
 - Excellent Academic Award  
 - Certificate of Youth Leadership — *JCI Thailand*  
-- Communication Training Class (Online)  
-- Basic Computer Certification  
+- Communication Training Class (Online)
+   
+---
+
+###  Interest
+- Content Creation
+- Social Impact Projects
+- Cultural Preservation
+- Entrepreneurship
 
 ---
 
-###  About Me
-A dedicated scholar who loves learning and helping people. I enjoy connecting with communities, exploring business solutions, and working toward sustainable development in Myanmar and the ASEAN region.
-
----
+### Languages
+- Mon (Native)
+- Burmese (Native)
+- English (Advance)
+- Thai (Basic)
 
 ### Connect With Me
 
